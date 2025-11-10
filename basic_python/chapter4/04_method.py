@@ -1,0 +1,7 @@
+t1=("anup","vivek",False,23,45.78,"anurag","abhay")
+a=t1.count('anup')
+print(a)
+b=t1.index("anurag")
+print(b)
+c=len(t1)
+print(c)
