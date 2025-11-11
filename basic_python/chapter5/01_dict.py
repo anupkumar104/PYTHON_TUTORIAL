@@ -1,0 +1,10 @@
+dict={
+    "key":"value",
+    "anup":"python",
+    "anurag":"c",
+    "vivek":"java",
+    "list":[1,4,6,9,98]
+}
+print(dict)
+print(type(dict))
+print(dict["vivek"])

@@ -1,0 +1,9 @@
+set={1,4,6,9,87,6,97,56,4}
+set1=set.union({7,8,9,900})
+print(set1)
+set2=set.intersection({1,4,56,67})
+print(set2)
+set3=set.difference({1,4,56,67})
+print(set3)
+set4=set.issubset({1,4})
+print(set4)
