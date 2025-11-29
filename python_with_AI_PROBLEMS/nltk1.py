@@ -1,0 +1,6 @@
+file = open("nltk.txt", "w") 
+file.write("Hello, this is my first text file.")
+file.write("You can add multiple lines like this.")
+file.write("Artificial Intelligence,especially Natural Language Processing, enables machines to analyze, understand,and generate human language, allowing applications like chatbots,translators,and voice assistants to communicate naturally with users across the world.Artificial Intelligence (AI) is the simulation of human intelligence by machines. It enables computers to learn, reason, and solve problems, improving efficiency and decision-making across various fields.")
+file.close()  
+print("File created successfully!")
