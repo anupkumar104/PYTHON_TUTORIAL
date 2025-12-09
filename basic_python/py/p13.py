@@ -1,0 +1,5 @@
+t=(1,2,3,4)
+t1=list(t)
+t1.append(2)
+t1=tuple(t1)
+print()
